@@ -1,0 +1,12 @@
+[submodule "dai.js"]
+	path = dai.js
+	url = ./dai.js
+[submodule "dss-add-ilk-spell"]
+	path = dss-add-ilk-spell
+	url = ./dss-add-ilk-spell
+[submodule "testchain"]
+	path = testchain
+	url = ./testchain
+[submodule "mcd-cdp-portal"]
+	path = mcd-cdp-portal
+	url = ./mcd-cdp-portal
