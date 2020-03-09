@@ -1,12 +1,12 @@
 [submodule "dai.js"]
 	path = dai.js
-	url = dai.js
+	url = https://github.com/keep-network/dai.js
 [submodule "dss-add-ilk-spell"]
 	path = dss-add-ilk-spell
-	url = ./dss-add-ilk-spell
+	url = https://github.com/keep-network/tbtc-makerdao-mcd
 [submodule "testchain"]
 	path = testchain
-	url = ./testchain
+	url = https://github.com/makerdao/testchain
 [submodule "mcd-cdp-portal"]
 	path = mcd-cdp-portal
-	url = ./mcd-cdp-portal
+	url = https://github.com/keep-network/mcd-cdp-portal
